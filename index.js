@@ -1,37 +1,37 @@
 const questions = [
     {
       type: "input",
-      message: "What is your project title?",
+      message: "What is the project title?",
       name: "title",
     },
     {
       type: "input",
-      message: "What is your project site URL?",
+      message: "What is the project site URL?",
       name: "url",
     },
     {
       type: "input",
-      message: "Enter in a description of your project:",
+      message: "Enter in a project description:",
       name: "description",
     },
     {
       type: "input",
-      message: "Enter in installation instructions of your project:",
+      message: "Enter in installation instructions for the project:",
       name: "installation",
     },
     {
       type: "input",
-      message: "Enter in the usage information for your project:",
+      message: "Enter in the usage information for the project:",
       name: "usage",
     },
     {
       type: "input",
-      message: "Would you like to credit anyone for this project?",
+      message: "Would you like to credit anyone for the project?",
       name: "credits",
     },
     {
       type: "input",
-      message: "Enter in the test instructions for this project:",
+      message: "Enter in the test instructions for the project:",
       name: "tests",
     },
     {
@@ -56,12 +56,12 @@ const questions = [
     },
     {
       type: "input",
-      message: "What is your GitHub username?",
+      message: "What is your GitHub username information?",
       name: "github",
     },
     {
       type: "input",
-      message: "What is your email address?",
+      message: "What is your email?",
       name: "email",
     },
   ];
