@@ -1,12 +1,12 @@
-# It's Raining Cats & Dogs ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
+# Pop Music ![GitHub license](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20v3.0-blue.svg)
   
   
   # Live Site
-  www.catsanddogs.com
+  www.spotify.com
   
   
   ## Description 
-  We love cats and puppies!
+  Find music
   
   
   ## Table of Contents
@@ -20,29 +20,29 @@
   
   
   ## Installation
-  Gotta download it.
+  YAY
   
   
   ## Usage 
-  Follow the links.
+  None
   
   
   ## License
   Copyright (c) [2020]
-  The license is MIT License. 
-  Read more about it at https://opensource.org/licenses/MIT.
+  The license is GNU General Public License v3.0. 
+  Read more about it at https://www.gnu.org/licenses/gpl-3.0.en.html.
   
   
   
   ## Credits
-  My mom.
+  Just me
   
   
   ## Tests
-  Not available.
+  open carefully
   
   
   ## Questions
-  If you have any additional questions please contact me at shannonmariealexander94@gmail.com.
-  GitHub: https://github.com/sa605935
+  If you have any additional questions please contact me at nanny101@hotmail.com.
+  GitHub: https://github.com/nanny101
   
